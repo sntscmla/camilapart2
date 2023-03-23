@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knifes>
+    <knife>
+        <name>Alder</name>
+        <scientific>Alnus</scientific>
+        <description>Alders are trees comprising the genus Alnus in the birch family Betulaceae. The genus comprises about 35 species[2] of monoecious trees and shrubs, a few reaching a large size, distributed throughout the north temperate zone with a few species extending into Central America, as well as the northern and southern Andes.[</description>
+        <kind>
+            <family>Black Alder</family>
+            <family>Common Alder</family>
+            <family>False Alder </family>
+            <family>Gray Alder</family>
+        </kind>
+    </knife>
+    <knife>
+        <name>Ash</name>
+        <scientific>Fraxinus</scientific>
+        <description>] commonly called ash, is a genus of flowering plants in the olive and lilac family, Oleaceae. It contains 45–65 species of usually medium to large trees, mostly deciduous, though a number of subtropical species are evergreen. The genus is widespread across much of Europe, Asia, and North America</description>
+        <kind>
+            <family>Black ash </family>
+            <family>Blue ash </family>
+            <family>Cane ash</family>
+            <family>European ash</family>
+            </kind>
+    </knife>
+    <knife>
+     <name>Birch</name>
+        <scientific>Betula</scientific>
+        <description> A birch is a thin-leaved deciduous hardwood tree of the genus Betula (/ˈbɛtjʊlə/),[2] in the family Betulaceae, which also includes alders, hazels, and hornbeams. It is closely related to the beech-oak family Fagaceae.</description>
+        <kind>
+            <family>Black birch</family>
+            <family>Bolean birch</family>
+            <family>Canoe birch t</family>
+            <family>Cherry birch</family>
+        </kind>
+        </knife>
+    <knife>
+        <name>Cabbage</name>
+        <scientific>Brassica oleracea</scientific>
+        <description>Brassica oleracea is a plant species from family Brassicaceae that includes many common cultivars used as vegetables, such as cabbage, broccoli, cauliflower, kale, Brussels sprouts, collard greens, Savoy cabbage, kohlrabi, and gai lan.</description>
+        <kind>
+            <family>Clumpfoot cabbage</family>
+            <family>Meadow cabbage</family>
+            <family>Skunk cabbage</family>
+            <family>Swamp cabbage</family>
+        </kind>
+    </knife >
+    <knife>
+        <name>Dogwood </name>
+        <scientific>Cornus</scientific>
+        <description>Cornus is a genus of about 30–60 species[Note 1] of woody plants in the family Cornaceae, commonly known as dogwoods, which can generally be distinguished by their blossoms, berries, and distinctive bark.</description>
+        <kind>
+            <family>American dogwood</family>
+            <family>Florida dogwood </family>
+            <family>Flowering dogwood </family>
+            <family>Kousa dogwood</family>
+        </kind>
+    </knife>
+
+
+</knifes>
